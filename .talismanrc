@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: ' .talismanrc'
+  checksum: 337cef8406e6b1ae992b7ebeddbc83d87c4ce8d7e7e5cd0770a4a78ed9301d85
+- filename: Jenkinsfile
+  checksum: ec441431311709e283e5ae7ab860d8d629a8c9dc2b6b00935753015820b0fabd
+version: ""
